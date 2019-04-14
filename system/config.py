@@ -1,0 +1,9 @@
+#-*- coding:utf-8 -*-
+
+MYSQL_HOST = '192.168.1.10'
+MYSQL_PORT = 3306
+MYSQL_PASSWORD = ''
+MYSQL_DATABASE = ''
+
+WEB_HOST = '127.0.0.1'
+WEB_PORT = 8000
