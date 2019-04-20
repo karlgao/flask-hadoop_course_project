@@ -1,0 +1,17 @@
+
+
+{% extends 'base.html' %}
+
+{% block title %}主页面{% endblock %}
+
+{% block content %}
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="main" style="width: 600px;height:400px;"></div>
+    <div id="chart2" style="width: 800px;height:400px;"></div>
+{% endblock %}
+
+{% block userjs %}
+<script src="/static/js/common.js"></script>
+<script src="/static/js/main.js"></script>
+
+{% endblock %}

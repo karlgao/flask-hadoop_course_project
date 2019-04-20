@@ -1,0 +1,14 @@
+.header{
+    height: 80px;
+    background-color: #69b9df;
+}
+
+.item{
+    margin: 20px auto auto 100px;
+}
+
+.lab{
+    margin:20px auto auto 100px;
+    color: rgb(240, 35, 35);
+    cursor: pointer;
+}
